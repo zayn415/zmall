@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.zayn.common.config.MyBatisConfig,\
+  com.zayn.common.config.MVCConfig,\
+  com.zayn.common.config.JsonConfig,\
+  com.zayn.common.config.MQConfig
